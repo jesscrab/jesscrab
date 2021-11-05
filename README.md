@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jesscrab
-- 👀 I’m interested in Game Off 2021
+- 👀 I’m interested in #GitHubGameOff 2021
 - 🌱 I’m currently learning how to make a card game
 - 💞️ I’m looking to collaborate on that card game
 - 📫 How to reach me: https://jessicacrabb.notion.site/
